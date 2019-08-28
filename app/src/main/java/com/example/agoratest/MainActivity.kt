@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
         /**
          * Agora play effect file path
          */
-        const val AGORA_PLAY_EFFECT_FILE_PATH = "/assets/sample.m4a"
+        const val AGORA_PLAY_EFFECT_FILE_PATH = "/assets/sample.mp3"
 
     }
 
